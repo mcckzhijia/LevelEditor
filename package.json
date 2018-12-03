@@ -1,0 +1,12 @@
+{
+  "name": "LevelEditor",
+  "version": "0.0.1",
+  "description": "开局一条鱼专用关卡编辑器",
+  "author": "lijing",
+  "main": "main.js",
+  "main-menu": {
+    "Packages/一键生成关卡配置": {
+      "message": "leveleditor:dosomething"
+    }
+  }
+}
